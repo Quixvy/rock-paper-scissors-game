@@ -1,0 +1,11 @@
+[33mcommit 508ac7cdf45ef5a3b5a9a6ca7bfabde29f128d5f[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Quixvy <tjpareja330@gmail.com>
+Date:   Mon May 25 16:09:04 2026 +0800
+
+    feat: added rps functionality
+
+[33mcommit d735350a11ce7726a60484cc94fd3d0fc1c9fb03[m
+Author: lee <tjpareja330@gmail.com>
+Date:   Mon May 25 15:50:09 2026 +0800
+
+    Initial commit
